@@ -1,1 +1,1 @@
-# AWS-Projects
+This repository contains resources, scripts, and configurations for managing and deploying cloud infrastructure on Amazon Web Services (AWS). It provides examples and best practices for setting up and optimizing cloud-based solutions using various AWS services.
